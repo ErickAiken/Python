@@ -1,2 +1,1 @@
-# Python
-Collection of Python Projects and Analytics
+A collection of python projects.
